@@ -1,0 +1,9 @@
+c:\users\darcy\documents\visual studio 2017\Projects\Case Opener\Case Opener\bin\Debug\Case Opener.exe.config
+c:\users\darcy\documents\visual studio 2017\Projects\Case Opener\Case Opener\bin\Debug\Case Opener.exe
+c:\users\darcy\documents\visual studio 2017\Projects\Case Opener\Case Opener\bin\Debug\Case Opener.pdb
+c:\users\darcy\documents\visual studio 2017\Projects\Case Opener\Case Opener\obj\Debug\Case Opener.csprojResolveAssemblyReference.cache
+c:\users\darcy\documents\visual studio 2017\Projects\Case Opener\Case Opener\obj\Debug\Case_Opener.Form1.resources
+c:\users\darcy\documents\visual studio 2017\Projects\Case Opener\Case Opener\obj\Debug\Case_Opener.Properties.Resources.resources
+c:\users\darcy\documents\visual studio 2017\Projects\Case Opener\Case Opener\obj\Debug\Case Opener.csproj.GenerateResource.Cache
+c:\users\darcy\documents\visual studio 2017\Projects\Case Opener\Case Opener\obj\Debug\Case Opener.exe
+c:\users\darcy\documents\visual studio 2017\Projects\Case Opener\Case Opener\obj\Debug\Case Opener.pdb
